@@ -79,13 +79,13 @@
 <br>
 <br>
 
-# ppt
+# PPT & IDE
 
 <br>
-최종 피피티는 용량이 커서 구글 드라이브에 올립니다.<br>
-https://drive.google.com/drive/folders/1cPc4tyUUJJkcxP67moWBcYX637FMV2sN?usp=sharing
+- 최종 피피티는 용량이 커서 구글 드라이브에 올립니다.<br>
+https://drive.google.com/drive/folders/1cPc4tyUUJJkcxP67moWBcYX637FMV2sN?usp=sharing<br>
+<br>
+- 코딩된 프로그램도 올려지지 않아서 과제란에 올립니다.
 
 <br>
 <br>
-# SW
-코딩된 프로그램은 안 올려져서 과제방에 올립니다.
