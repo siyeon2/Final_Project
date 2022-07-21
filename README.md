@@ -74,3 +74,18 @@
 ![image](https://user-images.githubusercontent.com/109746200/180241880-67abc738-853b-4147-a36e-9be49fd878d9.png)
  
 
+<br>
+<br>
+<br>
+<br>
+
+# ppt
+
+<br>
+최종 피피티는 용량이 커서 구글 드라이브에 올립니다.<br>
+https://drive.google.com/drive/folders/1cPc4tyUUJJkcxP67moWBcYX637FMV2sN?usp=sharing
+
+<br>
+<br>
+# SW
+코딩된 프로그램은 안 올려져서 과제방에 올립니다.
