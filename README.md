@@ -90,3 +90,17 @@ https://drive.google.com/drive/folders/1cPc4tyUUJJkcxP67moWBcYX637FMV2sN?usp=sha
 <br>
 <br>
 
+# photo
+<앞면>
+![image](https://user-images.githubusercontent.com/93849755/180253090-9a70231f-a44f-4bf1-a7f4-af386e6700c2.png)
+<뒷면>
+![image](https://user-images.githubusercontent.com/93849755/180253970-0e8f25bb-ee70-46da-afa0-34dac7db680e.png)
+
+
+<윗면>
+![image](https://user-images.githubusercontent.com/93849755/180253481-d9108042-dcd4-4075-b144-ea04802389fd.png)
+
+<측면>
+![image](https://user-images.githubusercontent.com/93849755/180253551-a4d232cc-4ab5-4ea1-8323-b2ddbf4d0e5f.png)
+
+
