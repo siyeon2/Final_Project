@@ -83,7 +83,7 @@
 
 <br>
 - 최종 피피티는 용량이 커서 구글 드라이브에 올립니다.<br>
-https://drive.google.com/drive/folders/1cPc4tyUUJJkcxP67moWBcYX637FMV2sN?usp=sharing<br>
+https://drive.google.com/drive/folders/1VNOhnXcblpar3CzEDiYMDaK97iu0czuC?usp=sharing<br>
 <br>
 - 코딩된 프로그램도 올려지지 않아서 과제란에 올립니다.
 
